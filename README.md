@@ -17,8 +17,6 @@ This project demonstrates a production-ready small enterprise network designed i
 
 ## 🗺️ Network Topology
 
-*(Note: Ensure your Packet Tracer screenshot is named `image_9438c5.png` and uploaded to the same folder on GitHub.)*
-
 ![Network Topology](image_9438c5.png)
 
 ## 📊 Network Specifications
@@ -111,6 +109,6 @@ During the build process, several real-world networking challenges were encounte
 
 ---
 
-**Author:** [Your Name]  
-**LinkedIn:** [Your LinkedIn Link]  
+**Author:** Saranesh Dhatchinamoorthy  
+**LinkedIn:** www.linkedin.com/in/saranesh-dhatchinamoorthy  
 **Date:** March 2026
